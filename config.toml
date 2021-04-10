@@ -103,4 +103,4 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "Introduction"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
-            footerText   = "Nada"                      # Text to override default footer text (markdown allowed)
+            footerText   = ' '                      # Text to override default footer text (markdown allowed)
