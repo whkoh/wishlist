@@ -1,6 +1,6 @@
 [submodule "themes/introduction"]
 	path = themes/introduction
-	url = https://github.com/whkoh/hugo-theme-introduction.git
+	url = git@github.com:victoriadrake/hugo-theme-introduction.git
 [submodule "themes/hugo-theme-introduction"]
 	path = themes/hugo-theme-introduction
 	url = git@github.com:victoriadrake/hugo-theme-introduction.git
